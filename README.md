@@ -1,10 +1,5 @@
-# zhouyixiaoxiao.com LinkedIn redirect
+# zhouyixiaoxiao.org
 
-This repo hosts a minimal GitHub Pages site that redirects:
+A one-page GitHub Pages site that sends `zhouyixiaoxiao.org` and `www.zhouyixiaoxiao.org` to the personal website at <https://zhouyixiaoxiao.com/>. Paths are kept, so `zhouyixiaoxiao.org/research/` arrives at `zhouyixiaoxiao.com/research/`.
 
-- `https://zhouyixiaoxiao.com`
-- `https://www.zhouyixiaoxiao.com`
-
-to:
-
-- `https://www.linkedin.com/in/zhouyixiaoxiao/`
+This repository used to redirect the `.com` address to a LinkedIn profile; the `.com` address is now the website itself.
